@@ -37,6 +37,6 @@ Il progetto è stato gestito adottando una metodologia ibrida e documentata, che
 ## 🔗 Risorse e Documentazione
 
 - **Report Completo (PDF):** [Visualizza il Report in Documentazione/](/Documentazione/Report notion.pdf)
-- **Presentazione (PDF):** [Visualizza le Slide in Documentazione/](/Documentazione/Presentazione_COVID_S.pdf)
-- **Analisi Live Originale (Google Sheets):** [INSERISCI QUI IL LINK DEL TUO FOGLIO GOOGLE SHEETS LIVE]
-- **Project Tracking Dettagliato (Notion):** [INSERISCI QUI IL LINK PUBBLICO DELLA PAGINA NOTION]
+- **Presentazione (PDF):** [Visualizza le Slide in Documentazione/](/Documentazione/Analisi_evolutiva_della_pandemia_COVID_19_in_Italia_2020_2022.pdf)
+- **Analisi Live Originale (Google Sheets):** [https://docs.google.com/spreadsheets/d/1Ig-FE6P7AjaE_Ih32PKGSucfhE03tFXV-x0_OgkjYeU/edit?usp=sharing]
+- **Project Tracking Dettagliato (Notion):** [https://www.notion.so/Esercitazione-finale-262bad80ec2f804c9f98d5dc688dba28?source=copy_link]
