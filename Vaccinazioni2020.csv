@@ -1,0 +1,426 @@
+data,d1,dpi,reg
+27/12/2020,1,0,Lazio
+27/12/2020,1,0,Sicilia
+27/12/2020,2,0,Abruzzo
+27/12/2020,5,0,Abruzzo
+27/12/2020,9,0,Abruzzo
+27/12/2020,13,0,Abruzzo
+27/12/2020,16,0,Abruzzo
+27/12/2020,1,0,Abruzzo
+27/12/2020,1,0,Abruzzo
+27/12/2020,9,0,Basilicata
+27/12/2020,28,0,Basilicata
+27/12/2020,31,0,Basilicata
+27/12/2020,26,0,Basilicata
+27/12/2020,13,0,Basilicata
+27/12/2020,60,0,Calabria
+27/12/2020,50,0,Calabria
+27/12/2020,57,0,Calabria
+27/12/2020,88,0,Calabria
+27/12/2020,64,0,Calabria
+27/12/2020,60,0,Campania
+27/12/2020,125,0,Campania
+27/12/2020,167,0,Campania
+27/12/2020,196,0,Campania
+27/12/2020,167,1,Campania
+27/12/2020,5,0,Campania
+27/12/2020,139,0,Emilia-Romagna
+27/12/2020,141,0,Emilia-Romagna
+27/12/2020,228,0,Emilia-Romagna
+27/12/2020,288,0,Emilia-Romagna
+27/12/2020,151,0,Emilia-Romagna
+27/12/2020,13,0,Emilia-Romagna
+27/12/2020,8,0,Emilia-Romagna
+27/12/2020,5,0,Emilia-Romagna
+27/12/2020,5,0,Friuli-Venezia Giulia
+27/12/2020,16,0,Friuli-Venezia Giulia
+27/12/2020,50,0,Friuli-Venezia Giulia
+27/12/2020,105,0,Friuli-Venezia Giulia
+27/12/2020,85,0,Friuli-Venezia Giulia
+27/12/2020,5,0,Friuli-Venezia Giulia
+27/12/2020,64,0,Lazio
+27/12/2020,80,0,Lazio
+27/12/2020,52,1,Lazio
+27/12/2020,56,0,Lazio
+27/12/2020,24,0,Lazio
+27/12/2020,9,0,Liguria
+27/12/2020,24,0,Liguria
+27/12/2020,20,0,Liguria
+27/12/2020,35,0,Liguria
+27/12/2020,16,1,Liguria
+27/12/2020,5,0,Liguria
+27/12/2020,12,0,Liguria
+27/12/2020,13,0,Liguria
+27/12/2020,42,0,Lombardia
+27/12/2020,64,0,Lombardia
+27/12/2020,142,1,Lombardia
+27/12/2020,234,0,Lombardia
+27/12/2020,201,0,Lombardia
+27/12/2020,23,0,Lombardia
+27/12/2020,10,0,Lombardia
+27/12/2020,2,0,Lombardia
+27/12/2020,4,0,Marche
+27/12/2020,11,0,Marche
+27/12/2020,23,0,Marche
+27/12/2020,13,0,Marche
+27/12/2020,2,0,Marche
+27/12/2020,1,0,Marche
+27/12/2020,1,0,Marche
+27/12/2020,4,0,Molise
+27/12/2020,9,0,Molise
+27/12/2020,7,0,Molise
+27/12/2020,10,0,Molise
+27/12/2020,3,1,Molise
+27/12/2020,2,2,Molise
+27/12/2020,5,1,Molise
+27/12/2020,4,2,Molise
+27/12/2020,9,0,Provincia Autonoma Bolzano / Bozen
+27/12/2020,20,0,Provincia Autonoma Bolzano / Bozen
+27/12/2020,46,0,Provincia Autonoma Bolzano / Bozen
+27/12/2020,54,0,Provincia Autonoma Bolzano / Bozen
+27/12/2020,16,0,Provincia Autonoma Bolzano / Bozen
+27/12/2020,1,0,Provincia Autonoma Bolzano / Bozen
+27/12/2020,1,0,Provincia Autonoma Bolzano / Bozen
+27/12/2020,5,0,Provincia Autonoma Trento
+27/12/2020,9,0,Provincia Autonoma Trento
+27/12/2020,25,0,Provincia Autonoma Trento
+27/12/2020,29,0,Provincia Autonoma Trento
+27/12/2020,22,0,Provincia Autonoma Trento
+27/12/2020,4,0,Provincia Autonoma Trento
+27/12/2020,8,0,Provincia Autonoma Trento
+27/12/2020,6,0,Provincia Autonoma Trento
+27/12/2020,89,0,Piemonte
+27/12/2020,146,0,Piemonte
+27/12/2020,203,0,Piemonte
+27/12/2020,294,2,Piemonte
+27/12/2020,131,0,Piemonte
+27/12/2020,19,0,Piemonte
+27/12/2020,24,0,Piemonte
+27/12/2020,20,0,Piemonte
+27/12/2020,52,0,Puglia
+27/12/2020,86,0,Puglia
+27/12/2020,78,0,Puglia
+27/12/2020,131,0,Puglia
+27/12/2020,100,0,Puglia
+27/12/2020,17,0,Puglia
+27/12/2020,29,0,Puglia
+27/12/2020,17,0,Puglia
+27/12/2020,5,0,Sardegna
+27/12/2020,3,0,Sardegna
+27/12/2020,10,0,Sardegna
+27/12/2020,20,0,Sardegna
+27/12/2020,29,0,Sardegna
+27/12/2020,1,0,Sardegna
+27/12/2020,5,0,Sicilia
+27/12/2020,16,0,Sicilia
+27/12/2020,25,0,Sicilia
+27/12/2020,30,0,Sicilia
+27/12/2020,48,0,Sicilia
+27/12/2020,14,0,Sicilia
+27/12/2020,9,0,Sicilia
+27/12/2020,1,0,Sicilia
+27/12/2020,50,0,Toscana
+27/12/2020,115,0,Toscana
+27/12/2020,152,0,Toscana
+27/12/2020,187,0,Toscana
+27/12/2020,107,1,Toscana
+27/12/2020,9,0,Toscana
+27/12/2020,3,0,Toscana
+27/12/2020,5,0,Toscana
+27/12/2020,2,0,Umbria
+27/12/2020,10,0,Umbria
+27/12/2020,14,0,Umbria
+27/12/2020,25,0,Umbria
+27/12/2020,30,0,Umbria
+27/12/2020,5,0,Umbria
+27/12/2020,6,0,Umbria
+27/12/2020,1,0,Umbria
+27/12/2020,1,0,Valle d'Aosta / Vallée d'Aoste
+27/12/2020,1,0,Valle d'Aosta / Vallée d'Aoste
+27/12/2020,4,0,Valle d'Aosta / Vallée d'Aoste
+27/12/2020,9,0,Valle d'Aosta / Vallée d'Aoste
+27/12/2020,5,0,Valle d'Aosta / Vallée d'Aoste
+27/12/2020,65,8,Veneto
+27/12/2020,113,5,Veneto
+27/12/2020,153,2,Veneto
+27/12/2020,336,2,Veneto
+27/12/2020,181,2,Veneto
+27/12/2020,2,0,Veneto
+28/12/2020,2,0,Friuli-Venezia Giulia
+28/12/2020,0,1,Lazio
+28/12/2020,1,0,Lazio
+28/12/2020,1,0,Calabria
+28/12/2020,1,0,Calabria
+28/12/2020,1,0,Calabria
+28/12/2020,1,0,Calabria
+28/12/2020,2,0,Calabria
+28/12/2020,1,0,Emilia-Romagna
+28/12/2020,125,0,Lazio
+28/12/2020,175,0,Lazio
+28/12/2020,238,0,Lazio
+28/12/2020,283,0,Lazio
+28/12/2020,144,0,Lazio
+28/12/2020,5,0,Liguria
+28/12/2020,13,0,Liguria
+28/12/2020,23,0,Liguria
+28/12/2020,29,0,Liguria
+28/12/2020,10,0,Liguria
+28/12/2020,1,0,Liguria
+28/12/2020,7,0,Lombardia
+28/12/2020,20,0,Lombardia
+28/12/2020,29,0,Lombardia
+28/12/2020,38,0,Lombardia
+28/12/2020,14,0,Lombardia
+28/12/2020,1,0,Sardegna
+28/12/2020,6,0,Sardegna
+28/12/2020,19,1,Sardegna
+28/12/2020,24,0,Sardegna
+28/12/2020,18,0,Sardegna
+28/12/2020,34,0,Sicilia
+28/12/2020,60,0,Sicilia
+28/12/2020,58,0,Sicilia
+28/12/2020,53,0,Sicilia
+28/12/2020,64,0,Sicilia
+28/12/2020,1,0,Sicilia
+28/12/2020,1,0,Toscana
+29/12/2020,1,0,Friuli-Venezia Giulia
+29/12/2020,1,0,Lazio
+29/12/2020,2,0,Lazio
+29/12/2020,1,0,Lazio
+29/12/2020,50,0,Lazio
+29/12/2020,80,0,Lazio
+29/12/2020,102,0,Lazio
+29/12/2020,181,0,Lazio
+29/12/2020,88,0,Lazio
+29/12/2020,3,0,Lazio
+29/12/2020,2,0,Liguria
+29/12/2020,28,0,Liguria
+29/12/2020,23,0,Liguria
+29/12/2020,37,0,Liguria
+29/12/2020,12,0,Liguria
+29/12/2020,5,0,Liguria
+29/12/2020,9,0,Liguria
+29/12/2020,9,0,Liguria
+29/12/2020,11,0,Lombardia
+29/12/2020,31,0,Lombardia
+29/12/2020,28,0,Lombardia
+29/12/2020,25,0,Lombardia
+29/12/2020,12,0,Lombardia
+29/12/2020,1,0,Puglia
+29/12/2020,4,0,Sardegna
+29/12/2020,3,0,Sardegna
+29/12/2020,12,0,Sardegna
+29/12/2020,21,0,Sardegna
+29/12/2020,17,0,Sardegna
+29/12/2020,20,0,Sicilia
+29/12/2020,68,1,Sicilia
+29/12/2020,72,0,Sicilia
+29/12/2020,66,0,Sicilia
+29/12/2020,72,0,Sicilia
+29/12/2020,1,0,Toscana
+30/12/2020,1,0,Friuli-Venezia Giulia
+30/12/2020,1,0,Friuli-Venezia Giulia
+30/12/2020,2,0,Friuli-Venezia Giulia
+30/12/2020,1,0,Friuli-Venezia Giulia
+30/12/2020,1,0,Lazio
+30/12/2020,2,0,Lazio
+30/12/2020,2,0,Lazio
+30/12/2020,1,0,Lazio
+30/12/2020,1,0,Emilia-Romagna
+30/12/2020,1,0,Emilia-Romagna
+30/12/2020,51,0,Friuli-Venezia Giulia
+30/12/2020,137,0,Friuli-Venezia Giulia
+30/12/2020,165,0,Friuli-Venezia Giulia
+30/12/2020,170,0,Friuli-Venezia Giulia
+30/12/2020,94,0,Friuli-Venezia Giulia
+30/12/2020,15,0,Friuli-Venezia Giulia
+30/12/2020,3,0,Friuli-Venezia Giulia
+30/12/2020,148,0,Lazio
+30/12/2020,333,0,Lazio
+30/12/2020,448,0,Lazio
+30/12/2020,442,0,Lazio
+30/12/2020,217,0,Lazio
+30/12/2020,33,0,Lazio
+30/12/2020,29,0,Lazio
+30/12/2020,13,0,Lazio
+30/12/2020,1,0,Liguria
+30/12/2020,1,0,Liguria
+30/12/2020,3,0,Liguria
+30/12/2020,7,0,Liguria
+30/12/2020,1,0,Liguria
+30/12/2020,12,0,Lombardia
+30/12/2020,36,0,Lombardia
+30/12/2020,26,0,Lombardia
+30/12/2020,34,0,Lombardia
+30/12/2020,6,0,Lombardia
+30/12/2020,1,0,Lombardia
+30/12/2020,4,0,Marche
+30/12/2020,1,0,Marche
+30/12/2020,3,0,Marche
+30/12/2020,8,0,Marche
+30/12/2020,1,0,Marche
+30/12/2020,54,1,Provincia Autonoma Bolzano / Bozen
+30/12/2020,66,1,Provincia Autonoma Bolzano / Bozen
+30/12/2020,143,0,Provincia Autonoma Bolzano / Bozen
+30/12/2020,104,0,Provincia Autonoma Bolzano / Bozen
+30/12/2020,41,0,Provincia Autonoma Bolzano / Bozen
+30/12/2020,1,0,Provincia Autonoma Bolzano / Bozen
+30/12/2020,1,0,Provincia Autonoma Trento
+30/12/2020,1,0,Provincia Autonoma Trento
+30/12/2020,2,0,Provincia Autonoma Trento
+30/12/2020,1,0,Provincia Autonoma Trento
+30/12/2020,1,0,Provincia Autonoma Trento
+30/12/2020,1,0,Provincia Autonoma Trento
+30/12/2020,134,0,Piemonte
+30/12/2020,109,0,Piemonte
+30/12/2020,187,0,Piemonte
+30/12/2020,225,0,Piemonte
+30/12/2020,104,0,Piemonte
+30/12/2020,1,0,Puglia
+30/12/2020,27,0,Sicilia
+30/12/2020,63,0,Sicilia
+30/12/2020,50,0,Sicilia
+30/12/2020,55,0,Sicilia
+30/12/2020,38,0,Sicilia
+30/12/2020,2,0,Toscana
+30/12/2020,12,0,Toscana
+30/12/2020,16,0,Toscana
+30/12/2020,22,1,Toscana
+30/12/2020,35,0,Toscana
+30/12/2020,20,0,Toscana
+30/12/2020,36,0,Toscana
+30/12/2020,108,0,Toscana
+30/12/2020,76,0,Toscana
+30/12/2020,47,5,Veneto
+30/12/2020,112,10,Veneto
+30/12/2020,193,8,Veneto
+30/12/2020,210,6,Veneto
+30/12/2020,72,1,Veneto
+30/12/2020,8,0,Veneto
+30/12/2020,20,0,Veneto
+30/12/2020,7,0,Veneto
+31/12/2020,1,0,Campania
+31/12/2020,126,0,Campania
+31/12/2020,274,0,Campania
+31/12/2020,352,1,Campania
+31/12/2020,421,1,Campania
+31/12/2020,307,1,Campania
+31/12/2020,5,0,Campania
+31/12/2020,1,0,Campania
+31/12/2020,241,0,Emilia-Romagna
+31/12/2020,405,0,Emilia-Romagna
+31/12/2020,460,2,Emilia-Romagna
+31/12/2020,498,1,Emilia-Romagna
+31/12/2020,298,0,Emilia-Romagna
+31/12/2020,54,1,Emilia-Romagna
+31/12/2020,144,2,Emilia-Romagna
+31/12/2020,116,1,Emilia-Romagna
+31/12/2020,123,1,Friuli-Venezia Giulia
+31/12/2020,223,0,Friuli-Venezia Giulia
+31/12/2020,252,0,Friuli-Venezia Giulia
+31/12/2020,295,0,Friuli-Venezia Giulia
+31/12/2020,148,0,Friuli-Venezia Giulia
+31/12/2020,17,0,Friuli-Venezia Giulia
+31/12/2020,1,0,Friuli-Venezia Giulia
+31/12/2020,1,0,Friuli-Venezia Giulia
+31/12/2020,435,0,Lazio
+31/12/2020,974,0,Lazio
+31/12/2020,1313,2,Lazio
+31/12/2020,1548,3,Lazio
+31/12/2020,887,2,Lazio
+31/12/2020,65,0,Lazio
+31/12/2020,108,0,Lazio
+31/12/2020,63,0,Lazio
+31/12/2020,73,0,Liguria
+31/12/2020,118,0,Liguria
+31/12/2020,168,0,Liguria
+31/12/2020,317,0,Liguria
+31/12/2020,141,1,Liguria
+31/12/2020,48,0,Liguria
+31/12/2020,73,0,Liguria
+31/12/2020,51,0,Liguria
+31/12/2020,59,0,Lombardia
+31/12/2020,160,0,Lombardia
+31/12/2020,158,0,Lombardia
+31/12/2020,249,0,Lombardia
+31/12/2020,88,0,Lombardia
+31/12/2020,1,0,Lombardia
+31/12/2020,15,0,Marche
+31/12/2020,78,0,Marche
+31/12/2020,110,0,Marche
+31/12/2020,98,0,Marche
+31/12/2020,93,0,Marche
+31/12/2020,14,0,Provincia Autonoma Bolzano / Bozen
+31/12/2020,121,0,Provincia Autonoma Bolzano / Bozen
+31/12/2020,162,0,Provincia Autonoma Bolzano / Bozen
+31/12/2020,225,1,Provincia Autonoma Bolzano / Bozen
+31/12/2020,283,1,Provincia Autonoma Bolzano / Bozen
+31/12/2020,110,0,Provincia Autonoma Bolzano / Bozen
+31/12/2020,15,0,Provincia Autonoma Bolzano / Bozen
+31/12/2020,2,0,Provincia Autonoma Bolzano / Bozen
+31/12/2020,1,0,Provincia Autonoma Trento
+31/12/2020,124,0,Provincia Autonoma Trento
+31/12/2020,191,0,Provincia Autonoma Trento
+31/12/2020,271,0,Provincia Autonoma Trento
+31/12/2020,349,0,Provincia Autonoma Trento
+31/12/2020,167,0,Provincia Autonoma Trento
+31/12/2020,138,0,Provincia Autonoma Trento
+31/12/2020,279,1,Provincia Autonoma Trento
+31/12/2020,211,0,Provincia Autonoma Trento
+31/12/2020,3,0,Piemonte
+31/12/2020,370,1,Piemonte
+31/12/2020,658,2,Piemonte
+31/12/2020,964,1,Piemonte
+31/12/2020,1331,3,Piemonte
+31/12/2020,500,0,Piemonte
+31/12/2020,35,0,Piemonte
+31/12/2020,57,0,Piemonte
+31/12/2020,40,0,Piemonte
+31/12/2020,1,0,Puglia
+31/12/2020,204,0,Puglia
+31/12/2020,361,0,Puglia
+31/12/2020,422,0,Puglia
+31/12/2020,410,2,Puglia
+31/12/2020,195,0,Puglia
+31/12/2020,16,0,Puglia
+31/12/2020,19,0,Puglia
+31/12/2020,10,0,Puglia
+31/12/2020,4,0,Sardegna
+31/12/2020,6,0,Sardegna
+31/12/2020,20,0,Sardegna
+31/12/2020,9,0,Sardegna
+31/12/2020,2,0,Sardegna
+31/12/2020,2,0,Sicilia
+31/12/2020,166,0,Sicilia
+31/12/2020,179,1,Sicilia
+31/12/2020,236,0,Sicilia
+31/12/2020,263,0,Sicilia
+31/12/2020,148,0,Sicilia
+31/12/2020,6,0,Sicilia
+31/12/2020,17,0,Toscana
+31/12/2020,27,0,Toscana
+31/12/2020,33,0,Toscana
+31/12/2020,58,1,Toscana
+31/12/2020,72,0,Toscana
+31/12/2020,133,1,Toscana
+31/12/2020,258,0,Toscana
+31/12/2020,203,2,Toscana
+31/12/2020,27,0,Umbria
+31/12/2020,63,0,Umbria
+31/12/2020,100,0,Umbria
+31/12/2020,108,0,Umbria
+31/12/2020,49,0,Umbria
+31/12/2020,1,0,Valle d'Aosta / Vallée d'Aoste
+31/12/2020,2,0,Valle d'Aosta / Vallée d'Aoste
+31/12/2020,3,0,Valle d'Aosta / Vallée d'Aoste
+31/12/2020,10,0,Valle d'Aosta / Vallée d'Aoste
+31/12/2020,2,0,Valle d'Aosta / Vallée d'Aoste
+31/12/2020,1,0,Veneto
+31/12/2020,297,51,Veneto
+31/12/2020,468,32,Veneto
+31/12/2020,738,26,Veneto
+31/12/2020,956,13,Veneto
+31/12/2020,389,7,Veneto
+31/12/2020,43,4,Veneto
+31/12/2020,97,1,Veneto
+31/12/2020,97,1,Veneto
